@@ -1,0 +1,84 @@
+.logoText {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24.7333px;
+
+    color: #3F3F3F;
+}
+
+.locoColor {
+    color: #2A945B;
+}
+
+.textP {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.1333px;
+    line-height: 4px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: 0.04em;
+
+    color: #7C7C7C;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    font-family: 'Satoshi' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    color: #3F3F3F !important;
+    background: #FFFFFF !important;
+    border: 0.7px solid #3F3F3F !important;
+    border-radius: 5px !important;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+    font-family: 'Satoshi' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    text-align: center !important;
+    background: #FFFFFF !important;
+    border: 0.7px solid #2A945B !important;
+    box-shadow: 0px 0px 6px rgba(42, 148, 91, 0.15) !important;
+    border-radius: 5px !important;
+    color: #2A945B !important;
+}
+
+.headerH {
+    width: 417px;
+}
+
+.headerH h2 {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 51px;
+    letter-spacing: 0.02em;
+    color: #3F3F3F;
+}
+
+.headerH span {
+    color: #2A945B;
+}
+
+.headerH p {
+    width: 657px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 36px;
+    color: #7C7C7C;
+}
+
+.headerImg{
+    width: 496px;
+}
