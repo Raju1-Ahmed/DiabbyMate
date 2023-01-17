@@ -150,9 +150,11 @@
     border: 0.7px solid #D1D1D1;
     border-radius: 9px;
 }
+
 .license img {
- width: 72px;
+    width: 72px;
 }
+
 .license h2 {
     font-family: 'Satoshi';
     font-style: normal;
@@ -160,13 +162,14 @@
     font-size: 21px;
     line-height: 29px;
     /* identical to box height, or 138% */
-    
+
     text-align: center;
     letter-spacing: 0.01em;
-    
+
     color: #7C7C7C;
-    
+
 }
+
 .license p {
     font-family: 'Satoshi';
     font-style: normal;
@@ -174,14 +177,15 @@
     font-size: 18px;
     line-height: 29px;
     /* or 161% */
-    
+
     text-align: center;
     letter-spacing: 0.01em;
-    
+
     color: #7C7C7C;
-    
+
 }
-.carousel p{
+
+.carousel p {
     margin-left: auto;
     margin-right: auto;
     width: 577px;
@@ -190,18 +194,134 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 29px;
-    /* or 161% */
-    
-    text-align: center;
+    text-align: start;
     letter-spacing: 0.01em;
-    
     color: #3F3F3F;
 }
-.carousel h2{
+
+.carousel h2 {
     font-family: 'Satoshi';
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 29px;
     color: #3F3F3F;
+}
+
+.css-bbreus-MuiButtonBase-root-MuiIconButton-root {
+    color: #2A945B !important;
+
+
+}
+
+.css-ktslay-MuiButtonBase-root-MuiIconButton-root {
+    background-color: white !important;
+}
+
+.css-1m9128y {
+    padding-bottom: 40px !important;
+    margin-top: 60px !important;
+}
+
+.vactor {
+    margin-top: -35px;
+    margin-left: 22px;
+}
+
+.healthL {
+    margin-right: 83px;
+    width: 402px;
+    height: 244px;
+    background: #D9D9D9
+}
+
+.healthR h1 {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 51px;
+
+    color: #3F3F3F;
+}
+
+.healthR {
+    width: 543px;
+}
+
+.healthR span {
+    color: #2A945B;
+}
+
+.healthR p {
+    color: #7C7C7C;
+}
+
+.healthR input {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: start;
+    background: #FFFFFF;
+    border: 0.7px solid #D1D1D1;
+    border-radius: 6px;
+    color: #9E9E9E;
+}
+
+.healthR button {
+    padding: 18px;
+    background: #2A945B;
+    border-radius: 5px;
+    width: 130px;
+    margin: -9px
+}
+
+.fb button {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.footerContent h2 {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 43px;
+
+    color: #2A945B;
+}
+
+.fc button {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.fc p {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+.fl{
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 28px;
+    color: #FFFFFF;
 }

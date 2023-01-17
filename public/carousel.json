@@ -1,0 +1,52 @@
+const  carouse_lData = {
+    "data":[
+    {
+      "_id": "63c64eb49dd2aba479c5a927",
+      "picture": "http://placehold.it/32x32",
+      "name": "Lenore Stephens",
+      "company": "brainclip",
+      "about": "Qui velit minim minim consequat ad labore mollit mollit fugiat laboris ut enim ullamco aute. Consectetur eu occaecat elit ipsum cillum nostrud laborum duis proident. Duis amet magna commodo veniam eu pariatur. Mollit reprehenderit elit dolore culpa et exercitation reprehenderit in nisi dolor sit fugiat id ipsum. Quis fugiat deserunt sunt deserunt ad et culpa. Dolore veniam incididunt et magna sit do veniam nostrud ex quis.\r\n",
+      "description": "Exercitation ipsum ut dolore ad veniam consequat laborum mollit eu. Et elit cillum laborum Lorem Lorem pariatur veniam sit labore irure aliqua sit aliquip. Irure incididunt ex reprehenderit irure magna reprehenderit veniam nisi officia ullamco eiusmod. Velit nostrud sit adipisicing adipisicing eu laborum exercitation elit dolore. Cupidatat est dolor culpa sit aliqua do esse in id laborum cillum eu. Pariatur laboris amet proident dolore magna minim magna anim ad est minim tempor est. Ipsum adipisicing do mollit anim velit quis in laborum irure do veniam.\r\n"
+    },
+    {
+      "_id": "63c64eb4f3289d28fe4852d8",
+      "picture": "http://placehold.it/32x32",
+      "name": "French Dillon",
+      "company": "maineland",
+      "about": "Eiusmod anim quis elit laborum officia pariatur minim. Labore qui occaecat veniam consequat esse non ullamco ipsum reprehenderit do do esse. Id ipsum culpa deserunt eu eu laborum ipsum velit veniam aute occaecat sunt.\r\n",
+      "description": "Irure ea tempor sit aute mollit. Lorem velit veniam laboris sit veniam. Ex consectetur eiusmod et irure occaecat aute Lorem pariatur.\r\n"
+    },
+    {
+      "_id": "63c64eb4c51f56720a1bca55",
+      "picture": "http://placehold.it/32x32",
+      "name": "Hester Gill",
+      "company": "mondicil",
+      "about": "In do proident nulla elit do reprehenderit fugiat. Magna enim laboris pariatur enim sint est do. Aliquip quis mollit laboris adipisicing consequat minim amet ipsum magna enim commodo amet sunt. Est deserunt labore mollit do ea exercitation.\r\n",
+      "description": "Reprehenderit Lorem laboris amet esse sit velit et aliqua qui sint id est adipisicing. Nostrud nisi cillum nisi tempor excepteur do exercitation. Proident consectetur eiusmod esse ea. Fugiat adipisicing do consequat elit tempor labore duis. Culpa laborum consectetur ullamco occaecat ex ullamco incididunt.\r\n"
+    },
+    {
+      "_id": "63c64eb4e6142b33faae4311",
+      "picture": "http://placehold.it/32x32",
+      "name": "Tia Rowland",
+      "company": "portalis",
+      "about": "Duis elit consectetur non ipsum pariatur. Enim sunt id non excepteur aliquip qui eiusmod ipsum consequat. Dolore laboris eu elit quis ex occaecat fugiat mollit et exercitation excepteur.\r\n",
+      "description": "Mollit Lorem qui dolor eiusmod tempor exercitation qui nulla mollit anim nostrud culpa anim. Quis esse qui mollit officia pariatur anim quis amet. Adipisicing in consequat laboris amet.\r\n"
+    },
+    {
+      "_id": "63c64eb4b3d525212ec7f8a8",
+      "picture": "http://placehold.it/32x32",
+      "name": "Crosby Salas",
+      "company": "powernet",
+      "about": "Consequat consequat qui proident ipsum fugiat pariatur pariatur fugiat voluptate consequat nulla sunt. Ea labore minim sunt magna duis et in voluptate. Irure eiusmod occaecat sunt cupidatat nostrud.\r\n",
+      "description": "Ea qui pariatur veniam irure occaecat. Culpa proident eu ea cupidatat minim aliquip officia et voluptate. Ullamco ullamco Lorem dolor eiusmod.\r\n"
+    },
+    {
+      "_id": "63c64eb4d5798b0293e4ebf5",
+      "picture": "http://placehold.it/32x32",
+      "name": "Cunningham Moon",
+      "company": "enthaze",
+      "about": "Cupidatat Lorem aute officia nulla qui. Proident labore Lorem irure in adipisicing irure eiusmod. Nulla adipisicing nisi sit non labore labore sunt culpa tempor veniam. Esse aute aliqua aliqua qui ullamco sunt cupidatat ut voluptate ullamco. Sint Lorem tempor magna duis occaecat reprehenderit culpa voluptate elit ea irure consectetur. Culpa sint quis velit duis. Qui do labore consectetur esse et ipsum aliqua adipisicing qui anim sunt Lorem cillum est.\r\n",
+      "description": "Occaecat amet sunt consequat culpa cupidatat. Occaecat ea amet labore quis ullamco. Aliquip ad mollit do ad dolor ea sint labore sunt anim ea nulla eiusmod. Enim in ex culpa consequat.\r\n"
+    }
+]}
+export default carouse_lData;
