@@ -1,29 +1,9 @@
-.logoText {
-    font-family: 'Satoshi';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24.7333px;
-
-    color: #3F3F3F;
-}
-
-.locoColor {
-    color: #2A945B;
-}
-
-.textP {
-    font-family: 'Satoshi';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14.1333px;
-    line-height: 4px;
-    /* identical to box height, or 100% */
-
-    letter-spacing: 0.04em;
-
-    color: #7C7C7C;
-}
-
+/* .container{
+    width: 1440px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 0% !important;
+} */
 .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
     font-family: 'Satoshi' !important;
     font-style: normal !important;
@@ -49,38 +29,6 @@
     box-shadow: 0px 0px 6px rgba(42, 148, 91, 0.15) !important;
     border-radius: 5px !important;
     color: #2A945B !important;
-}
-
-.headerH {
-    width: 417px;
-}
-
-.headerH h2 {
-    font-family: 'Satoshi';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 38px;
-    line-height: 51px;
-    letter-spacing: 0.02em;
-    color: #3F3F3F;
-}
-
-.headerH span {
-    color: #2A945B;
-}
-
-.headerH p {
-    width: 657px;
-    font-family: 'Satoshi';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 21px;
-    line-height: 36px;
-    color: #7C7C7C;
-}
-
-.headerImg {
-    width: 496px;
 }
 
 .service h2 {
@@ -317,11 +265,329 @@
 
     color: #FFFFFF;
 }
-.fl{
+
+.fl {
     font-family: 'Satoshi';
     font-style: normal;
     font-weight: 700;
     font-size: 21px;
     line-height: 28px;
     color: #FFFFFF;
+}
+
+.fd {
+    margin-top: 290px;
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .logoText {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 13.194px;
+        line-height: 23px;
+        color: #3F3F3F;
+    }
+
+    .locoColor {
+        color: #2A945B;
+    }
+
+    .textP {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 7.53945px;
+        line-height: 8px;
+        letter-spacing: 0.04em;
+        color: #7C7C7C;
+    }
+
+    .headerM {
+        margin-left: auto;
+        width: 323px;
+        margin-right: auto;
+    }
+
+    .headerM h2 {
+        width: 231px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #3F3F3F;
+    }
+
+    .headerM span {
+        color: #2A945B;
+    }
+
+    .headerM p {
+        width: 323px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #7C7C7C;
+    }
+
+    .headerImgM {
+        margin-left: auto;
+        width: 200px;
+        margin-right: auto;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .logoText {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24.7333px;
+        color: #3F3F3F;
+    }
+
+    .locoColor {
+        color: #2A945B;
+    }
+
+    .textP {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14.1333px;
+        line-height: 4px;
+        /* identical to box height, or 100% */
+
+        letter-spacing: 0.04em;
+
+        color: #7C7C7C;
+    }
+
+    .headerM {
+        margin-left: auto;
+        width: 323px;
+        margin-right: auto;    }
+
+    .headerM h2 {
+        width: 231px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #3F3F3F;
+    }
+
+    .headerM span {
+        color: #2A945B;
+    }
+
+    .headerM p {
+        width: 323px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #7C7C7C;
+    }
+
+    .headerImgM {
+        margin-left: auto;
+        width: 200px;
+        margin-right: auto;    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .logoText {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24.7333px;
+        color: #3F3F3F;
+    }
+
+    .sm {
+        display: none;
+    }
+
+    .locoColor {
+        color: #2A945B;
+    }
+
+    .textP {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14.1333px;
+        line-height: 4px;
+        letter-spacing: 0.04em;
+        color: #7C7C7C;
+    }
+
+    .headerH {
+        width: 417px;
+    }
+
+    .headerH h2 {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        letter-spacing: 0.02em;
+        color: #3F3F3F;
+    }
+
+    .headerH span {
+        color: #2A945B;
+    }
+
+    .headerH p {
+        width: 657px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 36px;
+        color: #7C7C7C;
+    }
+
+    .headerImg {
+        width: 496px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .logoText {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24.7333px;
+        color: #3F3F3F;
+    }
+
+    .locoColor {
+        color: #2A945B;
+    }
+
+    .textP {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14.1333px;
+        line-height: 4px;
+        letter-spacing: 0.04em;
+        color: #7C7C7C;
+    }
+
+    .headerH {
+        width: 417px;
+    }
+
+    .headerH h2 {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        letter-spacing: 0.02em;
+        color: #3F3F3F;
+    }
+
+    .headerH span {
+        color: #2A945B;
+    }
+
+    .headerH p {
+        width: 657px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 36px;
+        color: #7C7C7C;
+    }
+
+    .headerImg {
+        width: 496px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .logoText {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24.7333px;
+        color: #3F3F3F;
+    }
+
+    .locoColor {
+        color: #2A945B;
+    }
+
+    .textP {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14.1333px;
+        line-height: 4px;
+        letter-spacing: 0.04em;
+        color: #7C7C7C;
+    }
+
+    .headerH {
+        width: 417px;
+    }
+
+    .headerH h2 {
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        letter-spacing: 0.02em;
+        color: #3F3F3F;
+    }
+
+    .headerH span {
+        color: #2A945B;
+    }
+
+    .headerH p {
+        width: 657px;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 36px;
+        color: #7C7C7C;
+    }
+
+    .headerImg {
+        width: 496px;
+    }
 }

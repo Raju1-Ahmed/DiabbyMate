@@ -123,7 +123,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className='mt-60 ml-8   absolute '>
+                <div className='mt-60 fd  ml-8   absolute '>
                     <p>© diabbymate. All rights reserved</p>
                 </div>
             </div>
