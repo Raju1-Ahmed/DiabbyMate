@@ -10,11 +10,11 @@ const Home = () => {
     return (
         <div>
             <Header/>
-            {/* <OurService/>
-            <WhyChooseUs/>
-            <CarouselSlider/>
-            <Health/>
-            <Footer/> */}
+            <OurService/>
+            {/* <WhyChooseUs/> */}
+            {/* <CarouselSlider/> */}
+            {/* <Health/> */}
+            {/* <Footer/> */}
         </div>
     );
 };

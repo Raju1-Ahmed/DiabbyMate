@@ -55,12 +55,7 @@
     color: #7C7C7C;
 }
 
-.line4 {
-    width: 117px;
-    position: absolute;
-    margin-right: 160px;
-    margin-top: 100px;
-}
+
 
 .why h2 {
     width: 195px;
@@ -288,6 +283,11 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .line4 {
+        width: 38px;
+        position: absolute;
+    }
+
     .logoText {
         font-family: 'Satoshi';
         font-style: normal;
@@ -349,10 +349,46 @@
         width: 200px;
         margin-right: auto;
     }
+
+    .service h2 {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 28px;
+        color: #3F3F3F;
+        width: 220px;
+    }
+
+    .service span {
+        color: #2A945B;
+    }
+
+    .service p {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #7C7C7C;
+        width: 248px;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
+
+
+    .line4 {
+        width: 38px;
+        position: absolute;
+        margin-right: 219px;
+        margin-top: 86px;
+    }
+
     .logoText {
         font-family: 'Satoshi';
         font-style: normal;
@@ -381,7 +417,8 @@
     .headerM {
         margin-left: auto;
         width: 323px;
-        margin-right: auto;    }
+        margin-right: auto;
+    }
 
     .headerM h2 {
         width: 231px;
@@ -413,12 +450,48 @@
     .headerImgM {
         margin-left: auto;
         width: 200px;
-        margin-right: auto;    }
+        margin-right: auto;
+    }
+
+    .service h2 {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 28px;
+        color: #3F3F3F;
+        width: 220px;
+    }
+
+    .service span {
+        color: #2A945B;
+    }
+
+    .service p {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #7C7C7C;
+        width: 248px;
+    }
 
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    .line4 {
+
+        width: 109px;
+        position: absolute;
+        margin-right: 226px;
+        margin-top: 92px;
+    }
+
     .logoText {
         font-family: 'Satoshi';
         font-style: normal;
@@ -476,10 +549,43 @@
     .headerImg {
         width: 496px;
     }
+
+    .service h2 {
+        width: auto;
+        text-align: center;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        color: #3F3F3F;
+    }
+
+    .service span {
+        color: #2A945B;
+    }
+
+    .service p {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        color: #7C7C7C;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+    .line4 {
+        width: 109px;
+        position: absolute;
+        margin-right: 226px;
+        margin-top: 92px;
+    }
+
     .logoText {
         font-family: 'Satoshi';
         font-style: normal;
@@ -532,11 +638,39 @@
 
     .headerImg {
         width: 496px;
+    }
+
+    .service h2 {
+        width: auto;
+        text-align: center;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        color: #3F3F3F;
+    }
+
+    .service span {
+        color: #2A945B;
+    }
+
+    .service p {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        color: #7C7C7C;
     }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+
+
     .logoText {
         font-family: 'Satoshi';
         font-style: normal;
@@ -589,5 +723,39 @@
 
     .headerImg {
         width: 496px;
+    }
+
+    .service h2 {
+        text-align: center;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 51px;
+        color: #3F3F3F;
+        width: auto;
+    }
+
+    .service span {
+        color: #2A945B;
+    }
+
+    .service p {
+        width: auto;
+        font-family: 'Satoshi';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+        color: #7C7C7C;
+    }
+
+    .line4 {
+
+        width: 109px;
+        position: absolute;
+        margin-right: 226px;
+        margin-top: 92px;
     }
 }
